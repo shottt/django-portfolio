@@ -8,11 +8,11 @@ python3 -m venv myvenv
 ```
 仮想環境の実行
 ```
-source myvenv/vin/activate
+source myvenv/bin/activate
 ```
 パッケージのインストール
 ```
-pip 3 install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 データベース作成
 ```
